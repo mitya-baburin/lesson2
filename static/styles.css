@@ -1,0 +1,36 @@
+body {
+    background: linear-gradient(#f620f3, #00bfff, #66ccff);
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6; 
+}
+
+header, footer {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #00bfff;
+}
+
+img {
+    width: 100%;
+    height: auto;
